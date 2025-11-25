@@ -154,6 +154,9 @@
       <path value="$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle" />
     </include_path>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -194,7 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764090240735</updated>
       <workItem from="1764090241413" duration="3763000" />
-      <workItem from="1764094052008" duration="5876000" />
+      <workItem from="1764094052008" duration="5998000" />
     </task>
     <task id="LOCAL-00001" summary="Я створила веб-додаток на Symfony 7 для азійського магазину їжі. Використала Laragon для локального сервера та підключила базу даних MySQL. Реалізовано Entity Product, контролер для відображення та фільтрації товарів, а також Twig-шаблон. Додано кнопку для скидання фільтру та повідомлення про відсутність товарів, а також додано пагінацію">
       <option name="closed" value="true" />
@@ -204,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764099788631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Я створила веб-додаток на Symfony 7 для азійського магазину їжі. Використала Laragon для локального сервера та підключила базу даних MySQL. Реалізовано Entity Product, контролер для відображення та фільтрації товарів, а також Twig-шаблон. Додано кнопку для скидання фільтру та повідомлення про відсутність товарів, а також додано пагінацію">
+      <option name="closed" value="true" />
+      <created>1764100002083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764100002084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
