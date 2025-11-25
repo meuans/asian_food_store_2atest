@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fed3ef17-b00c-4063-ac39-4f217fc1245c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-    </list>
+    <list default="true" id="fed3ef17-b00c-4063-ac39-4f217fc1245c" name="Changes" comment="Я створила веб-додаток на Symfony 7 для азійського магазину їжі. Використала Laragon для локального сервера та підключила базу даних MySQL. Реалізовано Entity Product, контролер для відображення та фільтрації товарів, а також Twig-шаблон. Додано кнопку для скидання фільтру та повідомлення про відсутність товарів, а також додано пагінацію" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,11 +194,24 @@
       <option name="presentableId" value="Default" />
       <updated>1764090240735</updated>
       <workItem from="1764090241413" duration="3763000" />
-      <workItem from="1764094052008" duration="5524000" />
+      <workItem from="1764094052008" duration="5876000" />
     </task>
+    <task id="LOCAL-00001" summary="Я створила веб-додаток на Symfony 7 для азійського магазину їжі. Використала Laragon для локального сервера та підключила базу даних MySQL. Реалізовано Entity Product, контролер для відображення та фільтрації товарів, а також Twig-шаблон. Додано кнопку для скидання фільтру та повідомлення про відсутність товарів, а також додано пагінацію">
+      <option name="closed" value="true" />
+      <created>1764099788631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764099788631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Я створила веб-додаток на Symfony 7 для азійського магазину їжі. Використала Laragon для локального сервера та підключила базу даних MySQL. Реалізовано Entity Product, контролер для відображення та фільтрації товарів, а також Twig-шаблон. Додано кнопку для скидання фільтру та повідомлення про відсутність товарів, а також додано пагінацію" />
+    <option name="LAST_COMMIT_MESSAGE" value="Я створила веб-додаток на Symfony 7 для азійського магазину їжі. Використала Laragon для локального сервера та підключила базу даних MySQL. Реалізовано Entity Product, контролер для відображення та фільтрації товарів, а також Twig-шаблон. Додано кнопку для скидання фільтру та повідомлення про відсутність товарів, а також додано пагінацію" />
   </component>
 </project>
